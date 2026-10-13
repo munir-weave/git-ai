@@ -1,0 +1,21 @@
+src/commands/git_ai_handlers.rs
+  s_eeb61c7902903e::t_9db3f1fad8e7cc 17,477-485,1144-1155
+tests/integration/cursor.rs
+  s_eeb61c7902903e::t_60c5125b10efce 574-623
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a4d7bd7d517e3dd8f1bcc1c56347d98a7fda6beb",
+  "prompts": {},
+  "sessions": {
+    "s_eeb61c7902903e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "40cac997-6589-4bcf-806a-3a38c7757e1f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "munir-weave <munir@workweave.ai>"
+    }
+  }
+}
